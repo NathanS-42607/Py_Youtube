@@ -1,0 +1,223 @@
+2025-05-07 14:51:13,976 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:51:13,977 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:51:13,977 - INFO -  * Restarting with stat
+2025-05-07 14:51:14,780 - WARNING -  * Debugger is active!
+2025-05-07 14:51:14,784 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 14:51:30,819 - INFO - 127.0.0.1 - - [07/May/2025 14:51:30] "GET / HTTP/1.1" 200 -
+2025-05-07 14:51:31,245 - INFO - 127.0.0.1 - - [07/May/2025 14:51:31] "GET /socket.io/?EIO=4&transport=polling&t=PQi5hGe HTTP/1.1" 200 -
+2025-05-07 14:51:31,263 - INFO - 127.0.0.1 - - [07/May/2025 14:51:31] "POST /socket.io/?EIO=4&transport=polling&t=PQi5hGy&sid=UREQ6V5uml7UqXxTAAAA HTTP/1.1" 200 -
+2025-05-07 14:51:31,574 - INFO - 127.0.0.1 - - [07/May/2025 14:51:31] "GET /socket.io/?EIO=4&transport=polling&t=PQi5hGz&sid=UREQ6V5uml7UqXxTAAAA HTTP/1.1" 200 -
+2025-05-07 14:51:31,842 - INFO - 127.0.0.1 - - [07/May/2025 14:51:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-07 14:51:31,887 - INFO - 127.0.0.1 - - [07/May/2025 14:51:31] "GET /socket.io/?EIO=4&transport=polling&t=PQi5hLu&sid=UREQ6V5uml7UqXxTAAAA HTTP/1.1" 200 -
+2025-05-07 14:51:50,979 - INFO - Attempting to download video (attempt 1/3)
+2025-05-07 14:51:56,207 - ERROR - Error downloading video: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-05-07 14:52:35,474 - INFO -  * Detected change in 'C:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\youtube_downloader.py', reloading
+2025-05-07 14:52:35,650 - INFO -  * Restarting with stat
+2025-05-07 14:52:36,548 - WARNING -  * Debugger is active!
+2025-05-07 14:52:36,552 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 14:52:37,665 - INFO - 127.0.0.1 - - [07/May/2025 14:52:37] "GET /socket.io/?EIO=4&transport=polling&t=PQi5xPc HTTP/1.1" 200 -
+2025-05-07 14:52:37,917 - INFO - 127.0.0.1 - - [07/May/2025 14:52:37] "POST /socket.io/?EIO=4&transport=polling&t=PQi5xUa&sid=4wB3_TCgyviz6PTBAAAA HTTP/1.1" 200 -
+2025-05-07 14:52:37,986 - INFO - 127.0.0.1 - - [07/May/2025 14:52:37] "GET /socket.io/?EIO=4&transport=polling&t=PQi5xUb&sid=4wB3_TCgyviz6PTBAAAA HTTP/1.1" 200 -
+2025-05-07 14:52:37,992 - INFO - 127.0.0.1 - - [07/May/2025 14:52:37] "GET /socket.io/?EIO=4&transport=polling&t=PQi5xZb&sid=4wB3_TCgyviz6PTBAAAA HTTP/1.1" 200 -
+2025-05-07 14:52:48,228 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:52:48,229 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:52:48,229 - INFO -  * Restarting with stat
+2025-05-07 14:52:49,020 - WARNING -  * Debugger is active!
+2025-05-07 14:52:49,024 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 14:53:03,149 - INFO - 127.0.0.1 - - [07/May/2025 14:53:03] "GET /socket.io/?EIO=4&transport=websocket&sid=4wB3_TCgyviz6PTBAAAA HTTP/1.1" 200 -
+2025-05-07 14:53:03,466 - INFO - 127.0.0.1 - - [07/May/2025 14:53:03] "GET / HTTP/1.1" 200 -
+2025-05-07 14:53:03,496 - INFO - 127.0.0.1 - - [07/May/2025 14:53:03] "GET /socket.io/?EIO=4&transport=polling&t=PQi61o5 HTTP/1.1" 200 -
+2025-05-07 14:53:03,727 - INFO - 127.0.0.1 - - [07/May/2025 14:53:03] "POST /socket.io/?EIO=4&transport=polling&t=PQi61oH&sid=p7zUjQu9Wtc9BHaNAAAC HTTP/1.1" 200 -
+2025-05-07 14:53:03,821 - INFO - 127.0.0.1 - - [07/May/2025 14:53:03] "GET /socket.io/?EIO=4&transport=polling&t=PQi61oI&sid=p7zUjQu9Wtc9BHaNAAAC HTTP/1.1" 200 -
+2025-05-07 14:53:12,108 - INFO - Attempting to download video (attempt 1/3)
+2025-05-07 14:53:16,829 - INFO - Downloading... 0.0% complete
+2025-05-07 14:53:16,831 - INFO - Downloading... 0.1% complete
+2025-05-07 14:53:16,831 - INFO - Downloading... 0.2% complete
+2025-05-07 14:53:16,832 - INFO - Downloading... 0.4% complete
+2025-05-07 14:53:16,841 - INFO - Downloading... 0.8% complete
+2025-05-07 14:53:16,868 - INFO - Downloading... 1.6% complete
+2025-05-07 14:53:17,028 - INFO - Downloading... 3.3% complete
+2025-05-07 14:53:17,536 - INFO - Downloading... 6.6% complete
+2025-05-07 14:53:18,636 - INFO - Downloading... 13.1% complete
+2025-05-07 14:53:19,520 - INFO - Downloading... 19.0% complete
+2025-05-07 14:53:20,670 - INFO - Downloading... 25.7% complete
+2025-05-07 14:53:21,533 - INFO - Downloading... 31.5% complete
+2025-05-07 14:53:22,634 - INFO - Downloading... 38.2% complete
+2025-05-07 14:53:23,644 - INFO - Downloading... 44.3% complete
+2025-05-07 14:53:24,549 - INFO - Downloading... 50.4% complete
+2025-05-07 14:53:25,634 - INFO - Downloading... 57.1% complete
+2025-05-07 14:53:26,635 - INFO - Downloading... 63.3% complete
+2025-05-07 14:53:27,542 - INFO - Downloading... 69.4% complete
+2025-05-07 14:53:28,672 - INFO - Downloading... 76.2% complete
+2025-05-07 14:53:29,542 - INFO - Downloading... 82.2% complete
+2025-05-07 14:53:30,668 - INFO - Downloading... 89.2% complete
+2025-05-07 14:53:31,675 - INFO - Downloading... 95.3% complete
+2025-05-07 14:53:32,449 - INFO - Downloading... 100.0% complete
+2025-05-07 14:53:32,451 - INFO - Download completed
+2025-05-07 14:56:41,684 - INFO -  * Detected change in 'C:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\app.py', reloading
+2025-05-07 14:56:42,785 - INFO -  * Detected change in 'C:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\app.py', reloading
+2025-05-07 14:59:52,277 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 14:59:52,277 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 14:59:52,278 - INFO -  * Restarting with stat
+2025-05-07 14:59:53,941 - WARNING -  * Debugger is active!
+2025-05-07 14:59:53,948 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 14:59:56,712 - INFO - 127.0.0.1 - - [07/May/2025 14:59:56] "GET / HTTP/1.1" 200 -
+2025-05-07 15:00:03,313 - INFO - 127.0.0.1 - - [07/May/2025 15:00:03] "GET / HTTP/1.1" 200 -
+2025-05-07 15:00:14,284 - INFO - 127.0.0.1 - - [07/May/2025 15:00:14] "GET /log HTTP/1.1" 200 -
+2025-05-07 15:00:37,236 - INFO - 127.0.0.1 - - [07/May/2025 15:00:37] "GET / HTTP/1.1" 200 -
+2025-05-07 15:01:46,499 - INFO -  * Detected change in 'c:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\app.py', reloading
+2025-05-07 15:01:46,620 - INFO -  * Restarting with stat
+2025-05-07 15:01:48,224 - WARNING -  * Debugger is active!
+2025-05-07 15:01:48,232 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 15:02:21,140 - INFO - 127.0.0.1 - - [07/May/2025 15:02:21] "GET / HTTP/1.1" 200 -
+2025-05-07 15:02:23,516 - INFO - 127.0.0.1 - - [07/May/2025 15:02:23] "GET / HTTP/1.1" 200 -
+2025-05-07 15:02:36,489 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 15:02:36,489 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 15:02:36,490 - INFO -  * Restarting with stat
+2025-05-07 15:02:38,022 - WARNING -  * Debugger is active!
+2025-05-07 15:02:38,029 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 15:02:42,218 - INFO - 127.0.0.1 - - [07/May/2025 15:02:42] "GET / HTTP/1.1" 200 -
+2025-05-07 15:03:11,497 - INFO -  * Detected change in 'c:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\app.py', reloading
+2025-05-07 15:03:11,626 - INFO -  * Restarting with stat
+2025-05-07 15:03:13,256 - WARNING -  * Debugger is active!
+2025-05-07 15:03:13,265 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 15:03:42,608 - INFO - 127.0.0.1 - - [07/May/2025 15:03:42] "GET / HTTP/1.1" 200 -
+2025-05-07 15:03:42,677 - INFO - 127.0.0.1 - - [07/May/2025 15:03:42] "GET /socket.io/?EIO=4&transport=polling&t=PQi8TrE HTTP/1.1" 200 -
+2025-05-07 15:03:42,866 - INFO - 127.0.0.1 - - [07/May/2025 15:03:42] "POST /socket.io/?EIO=4&transport=polling&t=PQi8Tro&sid=GDPNkfMjmDgQoKIMAAAA HTTP/1.1" 200 -
+2025-05-07 15:03:43,022 - INFO - 127.0.0.1 - - [07/May/2025 15:03:43] "GET /socket.io/?EIO=4&transport=polling&t=PQi8Trr&sid=GDPNkfMjmDgQoKIMAAAA HTTP/1.1" 200 -
+2025-05-07 15:03:43,335 - INFO - 127.0.0.1 - - [07/May/2025 15:03:43] "GET /socket.io/?EIO=4&transport=polling&t=PQi8Twn&sid=GDPNkfMjmDgQoKIMAAAA HTTP/1.1" 200 -
+2025-05-07 15:03:45,764 - INFO - 127.0.0.1 - - [07/May/2025 15:03:45] "GET /socket.io/?EIO=4&transport=websocket&sid=GDPNkfMjmDgQoKIMAAAA HTTP/1.1" 200 -
+2025-05-07 15:03:52,569 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-05-07 15:03:52,570 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-07 15:03:52,570 - INFO -  * Restarting with stat
+2025-05-07 15:03:54,008 - WARNING -  * Debugger is active!
+2025-05-07 15:03:54,015 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 15:03:58,604 - INFO - 127.0.0.1 - - [07/May/2025 15:03:58] "GET /socket.io/?EIO=4&transport=polling&t=PQi8Xk6 HTTP/1.1" 200 -
+2025-05-07 15:03:58,634 - INFO - 127.0.0.1 - - [07/May/2025 15:03:58] "POST /socket.io/?EIO=4&transport=polling&t=PQi8Xkc&sid=2HEwmqkU5EtkAu_1AAAA HTTP/1.1" 200 -
+2025-05-07 15:03:58,952 - INFO - 127.0.0.1 - - [07/May/2025 15:03:58] "GET /socket.io/?EIO=4&transport=polling&t=PQi8Xkd&sid=2HEwmqkU5EtkAu_1AAAA HTTP/1.1" 200 -
+2025-05-07 15:04:48,108 - INFO - 127.0.0.1 - - [07/May/2025 15:04:48] "GET /socket.io/?EIO=4&transport=websocket&sid=2HEwmqkU5EtkAu_1AAAA HTTP/1.1" 200 -
+2025-05-07 15:04:48,434 - INFO - 127.0.0.1 - - [07/May/2025 15:04:48] "GET / HTTP/1.1" 200 -
+2025-05-07 15:04:48,494 - INFO - 127.0.0.1 - - [07/May/2025 15:04:48] "GET /socket.io/?EIO=4&transport=polling&t=PQi8jvc HTTP/1.1" 200 -
+2025-05-07 15:04:48,676 - INFO - 127.0.0.1 - - [07/May/2025 15:04:48] "POST /socket.io/?EIO=4&transport=polling&t=PQi8jv-&sid=wxoJGx2ZnUTlOkJ4AAAC HTTP/1.1" 200 -
+2025-05-07 15:04:48,829 - INFO - 127.0.0.1 - - [07/May/2025 15:04:48] "GET /socket.io/?EIO=4&transport=polling&t=PQi8jv_&sid=wxoJGx2ZnUTlOkJ4AAAC HTTP/1.1" 200 -
+2025-05-07 15:04:49,141 - INFO - 127.0.0.1 - - [07/May/2025 15:04:49] "GET /socket.io/?EIO=4&transport=polling&t=PQi8j_1&sid=wxoJGx2ZnUTlOkJ4AAAC HTTP/1.1" 200 -
+2025-05-07 15:05:58,896 - INFO -  * Detected change in 'c:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\app.py', reloading
+2025-05-07 15:05:59,029 - INFO -  * Restarting with stat
+2025-05-07 15:06:00,573 - WARNING -  * Debugger is active!
+2025-05-07 15:06:00,580 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 15:06:01,541 - INFO - 127.0.0.1 - - [07/May/2025 15:06:01] "GET /socket.io/?EIO=4&transport=polling&t=PQi8_SL HTTP/1.1" 200 -
+2025-05-07 15:06:01,551 - INFO - 127.0.0.1 - - [07/May/2025 15:06:01] "POST /socket.io/?EIO=4&transport=polling&t=PQi8_l9&sid=eTUWE6rL5fuVICEzAAAA HTTP/1.1" 200 -
+2025-05-07 15:06:01,858 - INFO - 127.0.0.1 - - [07/May/2025 15:06:01] "GET /socket.io/?EIO=4&transport=polling&t=PQi8_lA&sid=eTUWE6rL5fuVICEzAAAA HTTP/1.1" 200 -
+2025-05-07 15:06:31,095 - INFO - 127.0.0.1 - - [07/May/2025 15:06:31] "GET /socket.io/?EIO=4&transport=websocket&sid=eTUWE6rL5fuVICEzAAAA HTTP/1.1" 200 -
+2025-05-07 15:06:31,409 - INFO - 127.0.0.1 - - [07/May/2025 15:06:31] "GET / HTTP/1.1" 200 -
+2025-05-07 15:06:31,436 - INFO - 127.0.0.1 - - [07/May/2025 15:06:31] "GET /socket.io/?EIO=4&transport=polling&t=PQi9729 HTTP/1.1" 200 -
+2025-05-07 15:06:31,672 - INFO - 127.0.0.1 - - [07/May/2025 15:06:31] "POST /socket.io/?EIO=4&transport=polling&t=PQi972M&sid=kCwQeUKrij11-VQyAAAC HTTP/1.1" 200 -
+2025-05-07 15:06:31,765 - INFO - 127.0.0.1 - - [07/May/2025 15:06:31] "GET /socket.io/?EIO=4&transport=polling&t=PQi972N&sid=kCwQeUKrij11-VQyAAAC HTTP/1.1" 200 -
+2025-05-07 15:06:42,399 - INFO - Downloading... 0.0% complete
+2025-05-07 15:06:42,401 - INFO - Downloading... 0.1% complete
+2025-05-07 15:06:42,401 - INFO - Downloading... 0.2% complete
+2025-05-07 15:06:42,402 - INFO - Downloading... 0.4% complete
+2025-05-07 15:06:42,485 - INFO - Downloading... 0.8% complete
+2025-05-07 15:06:42,494 - INFO - Downloading... 1.6% complete
+2025-05-07 15:06:42,704 - INFO - Downloading... 3.3% complete
+2025-05-07 15:06:43,192 - INFO - Downloading... 6.6% complete
+2025-05-07 15:06:44,305 - INFO - Downloading... 13.2% complete
+2025-05-07 15:06:45,294 - INFO - Downloading... 19.1% complete
+2025-05-07 15:06:46,207 - INFO - Downloading... 25.1% complete
+2025-05-07 15:06:47,201 - INFO - Downloading... 31.7% complete
+2025-05-07 15:06:48,312 - INFO - Downloading... 38.4% complete
+2025-05-07 15:06:49,298 - INFO - Downloading... 44.3% complete
+2025-05-07 15:06:50,211 - INFO - Downloading... 50.4% complete
+2025-05-07 15:06:51,231 - INFO - Downloading... 57.0% complete
+2025-05-07 15:06:52,320 - INFO - Downloading... 63.5% complete
+2025-05-07 15:06:53,209 - INFO - Downloading... 69.4% complete
+2025-05-07 15:06:54,323 - INFO - Downloading... 76.1% complete
+2025-05-07 15:06:55,245 - INFO - Downloading... 82.1% complete
+2025-05-07 15:06:56,329 - INFO - Downloading... 88.7% complete
+2025-05-07 15:06:57,328 - INFO - Downloading... 94.7% complete
+2025-05-07 15:06:58,046 - INFO - Downloading... 100.0% complete
+2025-05-07 15:06:58,048 - INFO - Download completed
+2025-05-07 15:07:14,592 - INFO - 127.0.0.1 - - [07/May/2025 15:07:14] "GET /socket.io/?EIO=4&transport=websocket&sid=kCwQeUKrij11-VQyAAAC HTTP/1.1" 200 -
+2025-05-07 15:07:14,908 - INFO - 127.0.0.1 - - [07/May/2025 15:07:14] "GET / HTTP/1.1" 200 -
+2025-05-07 15:07:14,936 - INFO - 127.0.0.1 - - [07/May/2025 15:07:14] "GET /socket.io/?EIO=4&transport=polling&t=PQi9Hfr HTTP/1.1" 200 -
+2025-05-07 15:07:15,172 - INFO - 127.0.0.1 - - [07/May/2025 15:07:15] "POST /socket.io/?EIO=4&transport=polling&t=PQi9Hfy&sid=tBuo4tNiLZ8P2juRAAAE HTTP/1.1" 200 -
+2025-05-07 15:07:15,249 - INFO - 127.0.0.1 - - [07/May/2025 15:07:15] "GET /socket.io/?EIO=4&transport=polling&t=PQi9Hfy.0&sid=tBuo4tNiLZ8P2juRAAAE HTTP/1.1" 200 -
+2025-05-07 15:07:16,494 - INFO - 127.0.0.1 - - [07/May/2025 15:07:16] "GET /socket.io/?EIO=4&transport=websocket&sid=tBuo4tNiLZ8P2juRAAAE HTTP/1.1" 200 -
+2025-05-07 15:07:16,671 - INFO - 127.0.0.1 - - [07/May/2025 15:07:16] "[33mGET /download/static/downloads/Big%20Dawgs.mp4 HTTP/1.1[0m" 404 -
+2025-05-07 15:08:24,176 - INFO -  * Detected change in 'c:\\Users\\Nathan\\CascadeProjects\\youtube_downloader\\app.py', reloading
+2025-05-07 15:08:24,288 - INFO -  * Restarting with stat
+2025-05-07 15:08:25,114 - WARNING -  * Debugger is active!
+2025-05-07 15:08:25,118 - INFO -  * Debugger PIN: 131-335-238
+2025-05-07 15:08:57,378 - INFO - 127.0.0.1 - - [07/May/2025 15:08:57] "GET /socket.io/?EIO=4&transport=polling&t=PQi9gbe HTTP/1.1" 200 -
+2025-05-07 15:08:57,646 - INFO - 127.0.0.1 - - [07/May/2025 15:08:57] "GET / HTTP/1.1" 200 -
+2025-05-07 15:08:57,690 - INFO - 127.0.0.1 - - [07/May/2025 15:08:57] "GET /socket.io/?EIO=4&transport=polling&t=PQi9gl6 HTTP/1.1" 200 -
+2025-05-07 15:08:57,697 - INFO - 127.0.0.1 - - [07/May/2025 15:08:57] "POST /socket.io/?EIO=4&transport=polling&t=PQi9glU&sid=8rXc1-ljyMspDha6AAAB HTTP/1.1" 200 -
+2025-05-07 15:08:57,726 - INFO - 127.0.0.1 - - [07/May/2025 15:08:57] "GET /socket.io/?EIO=4&transport=polling&t=PQi9glU.0&sid=8rXc1-ljyMspDha6AAAB HTTP/1.1" 200 -
+2025-05-07 15:08:58,001 - INFO - 127.0.0.1 - - [07/May/2025 15:08:58] "GET /socket.io/?EIO=4&transport=polling&t=PQi9gm1&sid=8rXc1-ljyMspDha6AAAB HTTP/1.1" 200 -
+2025-05-07 15:08:58,811 - INFO - 127.0.0.1 - - [07/May/2025 15:08:58] "GET /socket.io/?EIO=4&transport=websocket&sid=8rXc1-ljyMspDha6AAAB HTTP/1.1" 200 -
+2025-05-07 15:08:58,870 - INFO - 127.0.0.1 - - [07/May/2025 15:08:58] "GET /download/Big%20Dawgs.mp4 HTTP/1.1" 200 -
+2025-05-07 15:09:44,389 - INFO - 127.0.0.1 - - [07/May/2025 15:09:44] "GET /socket.io/?EIO=4&transport=polling&t=PQi9s47 HTTP/1.1" 200 -
+2025-05-07 15:09:44,635 - INFO - 127.0.0.1 - - [07/May/2025 15:09:44] "POST /socket.io/?EIO=4&transport=polling&t=PQi9s98&sid=PhQ-iYDMwriyKm27AAAD HTTP/1.1" 200 -
+2025-05-07 15:09:44,698 - INFO - 127.0.0.1 - - [07/May/2025 15:09:44] "GET /socket.io/?EIO=4&transport=polling&t=PQi9s98.0&sid=PhQ-iYDMwriyKm27AAAD HTTP/1.1" 200 -
+2025-05-07 15:09:44,703 - INFO - 127.0.0.1 - - [07/May/2025 15:09:44] "GET /socket.io/?EIO=4&transport=polling&t=PQi9sDz&sid=PhQ-iYDMwriyKm27AAAD HTTP/1.1" 200 -
+2025-05-07 15:12:44,505 - INFO - Downloading... 0.0% complete
+2025-05-07 15:12:44,506 - INFO - Downloading... 0.0% complete
+2025-05-07 15:12:44,507 - INFO - Downloading... 0.1% complete
+2025-05-07 15:12:44,508 - INFO - Downloading... 0.2% complete
+2025-05-07 15:12:44,509 - INFO - Downloading... 0.3% complete
+2025-05-07 15:12:44,550 - INFO - Downloading... 0.7% complete
+2025-05-07 15:12:44,688 - INFO - Downloading... 1.4% complete
+2025-05-07 15:12:45,201 - INFO - Downloading... 2.8% complete
+2025-05-07 15:12:46,287 - INFO - Downloading... 5.6% complete
+2025-05-07 15:12:47,195 - INFO - Downloading... 8.1% complete
+2025-05-07 15:12:48,209 - INFO - Downloading... 10.9% complete
+2025-05-07 15:12:49,303 - INFO - Downloading... 13.6% complete
+2025-05-07 15:12:50,205 - INFO - Downloading... 16.1% complete
+2025-05-07 15:12:51,303 - INFO - Downloading... 18.9% complete
+2025-05-07 15:12:52,206 - INFO - Downloading... 21.5% complete
+2025-05-07 15:12:53,211 - INFO - Downloading... 24.3% complete
+2025-05-07 15:12:54,311 - INFO - Downloading... 27.1% complete
+2025-05-07 15:12:55,217 - INFO - Downloading... 29.6% complete
+2025-05-07 15:12:56,231 - INFO - Downloading... 32.4% complete
+2025-05-07 15:12:57,328 - INFO - Downloading... 35.2% complete
+2025-05-07 15:12:58,231 - INFO - Downloading... 37.7% complete
+2025-05-07 15:12:59,318 - INFO - Downloading... 40.5% complete
+2025-05-07 15:13:00,247 - INFO - Downloading... 43.1% complete
+2025-05-07 15:13:01,319 - INFO - Downloading... 45.8% complete
+2025-05-07 15:13:02,256 - INFO - Downloading... 48.4% complete
+2025-05-07 15:13:03,392 - INFO - Downloading... 51.2% complete
+2025-05-07 15:13:04,136 - INFO - Downloading... 53.6% complete
+2025-05-07 15:13:05,439 - INFO - Downloading... 56.9% complete
+2025-05-07 15:13:06,349 - INFO - Downloading... 59.4% complete
+2025-05-07 15:13:07,369 - INFO - Downloading... 62.1% complete
+2025-05-07 15:13:08,348 - INFO - Downloading... 64.8% complete
+2025-05-07 15:13:09,353 - INFO - Downloading... 67.6% complete
+2025-05-07 15:13:10,355 - INFO - Downloading... 70.3% complete
+2025-05-07 15:13:11,385 - INFO - Downloading... 73.0% complete
+2025-05-07 15:13:12,357 - INFO - Downloading... 75.7% complete
+2025-05-07 15:13:13,459 - INFO - Downloading... 78.4% complete
+2025-05-07 15:13:14,385 - INFO - Downloading... 80.9% complete
+2025-05-07 15:13:15,359 - INFO - Downloading... 83.6% complete
+2025-05-07 15:13:16,376 - INFO - Downloading... 86.3% complete
+2025-05-07 15:13:17,377 - INFO - Downloading... 89.0% complete
+2025-05-07 15:13:18,366 - INFO - Downloading... 91.7% complete
+2025-05-07 15:13:19,391 - INFO - Downloading... 94.4% complete
+2025-05-07 15:13:20,375 - INFO - Downloading... 97.1% complete
+2025-05-07 15:13:21,438 - INFO - Downloading... 99.8% complete
+2025-05-07 15:13:21,512 - INFO - Downloading... 100.0% complete
+2025-05-07 15:13:21,514 - INFO - Download completed
+2025-05-07 15:13:25,138 - INFO - 127.0.0.1 - - [07/May/2025 15:13:25] "GET /socket.io/?EIO=4&transport=websocket&sid=PhQ-iYDMwriyKm27AAAD HTTP/1.1" 200 -
+2025-05-07 15:13:25,455 - INFO - 127.0.0.1 - - [07/May/2025 15:13:25] "GET / HTTP/1.1" 200 -
+2025-05-07 15:13:25,486 - INFO - 127.0.0.1 - - [07/May/2025 15:13:25] "GET /socket.io/?EIO=4&transport=polling&t=PQiAi7d HTTP/1.1" 200 -
+2025-05-07 15:13:25,703 - INFO - 127.0.0.1 - - [07/May/2025 15:13:25] "POST /socket.io/?EIO=4&transport=polling&t=PQiAi7q&sid=YbvzOFBhyCanbsrQAAAF HTTP/1.1" 200 -
+2025-05-07 15:13:25,805 - INFO - 127.0.0.1 - - [07/May/2025 15:13:25] "GET /socket.io/?EIO=4&transport=polling&t=PQiAi7q.0&sid=YbvzOFBhyCanbsrQAAAF HTTP/1.1" 200 -
+2025-05-07 15:13:48,344 - INFO - 127.0.0.1 - - [07/May/2025 15:13:48] "GET /socket.io/?EIO=4&transport=websocket&sid=YbvzOFBhyCanbsrQAAAF HTTP/1.1" 200 -
+2025-05-07 15:13:48,511 - INFO - 127.0.0.1 - - [07/May/2025 15:13:48] "GET /download/Hobo%20Johnson%20-%20Typical%20Story%20(Lyrics%20Video).mp4 HTTP/1.1" 200 -
+2025-05-07 15:14:12,629 - INFO - 127.0.0.1 - - [07/May/2025 15:14:12] "GET /socket.io/?EIO=4&transport=polling&t=PQiAteI HTTP/1.1" 200 -
+2025-05-07 15:14:12,635 - INFO - 127.0.0.1 - - [07/May/2025 15:14:12] "POST /socket.io/?EIO=4&transport=polling&t=PQiAteO&sid=nIIJykdzyeu6O06vAAAH HTTP/1.1" 200 -
+2025-05-07 15:14:12,937 - INFO - 127.0.0.1 - - [07/May/2025 15:14:12] "GET /socket.io/?EIO=4&transport=polling&t=PQiAteO.0&sid=nIIJykdzyeu6O06vAAAH HTTP/1.1" 200 -
